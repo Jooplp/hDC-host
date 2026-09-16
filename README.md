@@ -29,4 +29,4 @@ Acesse o projeto:
 
 ---
 
-Projeto desenvolvido por **João Pedro**.
+Projeto desenvolvido por **João**.
